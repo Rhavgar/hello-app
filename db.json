@@ -1,0 +1,63 @@
+{
+  "exoplanets": [
+    {
+      "id": "1",
+      "name": "16 Cygni B b",
+      "lyearth": "69",
+      "mass": "1,78 Jupiters",
+      "stellarmagnitude": "6.25",
+      "year": "1996"
+    },
+    {
+      "id": "2",
+      "name": "11 Ursae Minoris b",
+      "lyearth": "410",
+      "mass": "14.74 Jupiters",
+      "stellarmagnitude": "5.016",
+      "year": "2009"
+    },
+    {
+      "id": "3",
+      "name": "14 Andromedae b",
+      "lyearth": "247",
+      "mass": "4.8 Jupiters",
+      "stellarmagnitude": "5.227",
+      "year": "2008"
+    },
+    {
+      "id": "5",
+      "name": "5",
+      "lyearth": "5",
+      "mass": "5",
+      "stellarmagnitude": "5",
+      "year": "5"
+    }
+  ],
+
+  "telescopes": [
+    {
+      "id": "1",
+      "name": "Proton-1",
+      "agency": "USSR",
+      "location": "Earth Orbit",
+      "launch": "16 Jul 1965",
+      "terminated": "11 Oct 1965"
+    },
+    {
+      "id": "2",
+      "name": "Uhuru",
+      "agency": "NASA",
+      "location": "Earth Orbit",
+      "launch": "12 Dec 1970",
+      "terminated": "Mar 1973"
+    },
+    {
+      "id": "3",
+      "name": "Advanced Telescope for High Energy Astrophysics (ATHENA)",
+      "agency": "ESA/NASA/JAXA",
+      "location": "Sun-Earth L2 Langrange point",
+      "launch": "2031",
+      "terminated": ""
+    }
+  ]
+}
